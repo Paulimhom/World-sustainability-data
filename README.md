@@ -42,6 +42,8 @@ Download here
 
 [Tableau dashboard](https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes)
 
+[shape file](https://datahub.io/core/geo-countries#resource-countries)
+
 ### Tools
 
 Anaconda
