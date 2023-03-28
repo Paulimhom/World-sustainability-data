@@ -38,7 +38,7 @@ Download here
 
 [Carbon Dioxide (CO2) Emmissions - Total Europe dataset](https://data.nasdaq.com/data/BP-energy-production-and-consumption?page=2)
 
-[World-sustainability-dataset](https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes)
+[World-sustainability-dataset](https://www.kaggle.com/datasets/truecue/worldsustainabilitydataset)
 
 [Tableau dashboard](https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes)
 
