@@ -40,6 +40,8 @@ Download here
 
 [World-sustainability-dataset](https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes)
 
+[Tableau dashboard](https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes)
+
 ### Tools
 
 Anaconda
