@@ -2,7 +2,7 @@
 
 This repository contains dataset (including my Jupyter notebooks and scripts) related to the project "CO2 emissions and percntage population below  poverty line analysis".
 
-Analysis of World-sustainability-dataset and the Carbon Dioxide (CO2) Emmissions - Total Europe  dataset from quandl to identify pattern and trend using Python on jupyter notebook.
+The analysis of World-sustainability-dataset and the Carbon Dioxide (CO2) Emmissions - Total Europe  dataset from quandl was carried out to identify pattern and trend using Python on jupyter notebook.
 
 ### Introduction
 The world sustainability dataset is a global sustainability’ dataset that has been put together from several merged data sources. The dataset tracks the performance of 173 countries against a range of sustainability metrics over a 19-year period. 
