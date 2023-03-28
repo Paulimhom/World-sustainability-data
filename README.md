@@ -7,15 +7,15 @@ Analysis of World-sustainability-dataset and the Carbon Dioxide (CO2) Emmissions
 ### Introduction
 The world sustainability dataset is a global sustainability’ dataset that has been put together from several merged data sources. The dataset tracks the performance of 173 countries against a range of sustainability metrics over a 19-year period. 
 
-# Dataset
+### Dataset
 The data contains 54 columns and 3287 rows. After the Data Quality check, only two indicators were choosen from the dataset for analysis.	
 The Carbon Dioxide (CO2) Emmissions - Total Europe from quandl dataset contains data from 1965 to 2020 of all emmissions from the use of petroleum products.
 
-Objective
+### Objective
 This analysis  takes a look at two keep metrics of countries and that have been taking steps to reduces their CO2 emissions over the last 19 years in order to identify patterns and relationships in the occurence over time.
 
 
-Key Questions explored
+### Key Questions explored
 
 Which countries still has the least access to clean water and sanitization?
 
@@ -31,16 +31,46 @@ Which countries still has the least access to clean water and sanitization?
 
 - Which countries still has proportion of people below the poverty line ?
 
-Data
+### Data
 Citation: 
 
 Download here
 
 [Carbon Dioxide (CO2) Emmissions - Total Europe dataset](https://data.nasdaq.com/data/BP-energy-production-and-consumption?page=2)
 
-Tools
-Pandas- for data analysis
+[World-sustainability-dataset](https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes)
 
-Seaborn - for visualization
+### Tools
 
-Matplotlib - for visualization
+Anaconda
+
+Jupyter
+
+Tableau
+
+### Libraries:
+
+pandas
+
+numpy
+
+os
+
+matplotlib
+seaborn
+
+scipy
+
+folium
+
+json
+
+sklearn
+
+pylab
+
+quandl
+
+statsmodels
+
+datetime
