@@ -18,17 +18,26 @@ This analysis  takes a look at two keep metrics of countries and that have been 
 Key Questions explored
 
 Which countries still has the least access to clean water and sanitization?
+
 - Which continent has the least number of female enrollment in school?
+
 - Which countries has the highest proportion of population below the international poverty line ($1.25), therefore are behind in SDG 1?
+
 - Country with the highest unemployment rate  
+
 - Which country has the lowest CO2 emissions 
+
 - How does CO2 emission of a country relate to the percentage population been lifted from poverty?
+
 - Which countries still has proportion of people below the poverty line ?
 
 Data
 Citation: 
+
 Download here
-https://public.tableau.com/app/profile/paul.imhomoh/viz/Worldsustainabilitydataresult/Story1?publish=yes
+
+[Carbon Dioxide (CO2) Emmissions - Total Europe dataset](https://data.nasdaq.com/data/BP-energy-production-and-consumption?page=2)
+
 Tools
 Pandas- for data analysis
 
